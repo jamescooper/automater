@@ -4,7 +4,7 @@ Supports Watermarks of PDF
 #Credit
 https://discussions.apple.com/people/Hiroto
 
-#Solution based on discussions from the following forum
+#Solution based on the following
 https://discussions.apple.com/thread/6620337
 
 #Instructions
